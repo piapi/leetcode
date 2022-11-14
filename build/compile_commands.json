@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/liao/CppStudy/leetcode/build",
+  "command": "/usr/bin/g++    -std=c++14 -O3 -g   -o CMakeFiles/code.dir/test_11.cpp.o -c /home/liao/CppStudy/leetcode/test_11.cpp",
+  "file": "/home/liao/CppStudy/leetcode/test_11.cpp"
+}
+]
